@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 Olá, meu nome é Andeloana Neves!👋😃
+
+
 About me...
+
 
 ❤️Sou uma Dev apaixonada por tecnologia!
 
