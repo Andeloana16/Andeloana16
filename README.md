@@ -9,7 +9,7 @@ About me...
 
 📈 Este é o espaço onde a imaginação e a criatividade se transformam em código.
 
-💬 Pergunte-me sobre qualquer clicando coisa aqui!
+
 
 <br>
 <br>
