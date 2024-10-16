@@ -9,9 +9,6 @@ Olá, meu nome é Andeloana Neves!👋😃
 💼 Front End rumo ao Full Stack em transição de carreira.
 
 📈 Este é o espaço onde a imaginação e a criatividade se transformam em código.
- 
-
-
 
 <br>
 <br>
@@ -19,13 +16,15 @@ Olá, meu nome é Andeloana Neves!👋😃
 
 
 🔗Conecte-se comigo pelo link abaixo:
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
-
+<div> 
+  
+  <a href = "mailto:andeloanarneves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andeloananeves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <br>
 <br>
-
 
 🛠️Linguagens e ferramentas:
 
@@ -33,8 +32,6 @@ Olá, meu nome é Andeloana Neves!👋😃
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascrip-logo" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
-
-
 
 
 <br>
