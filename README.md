@@ -9,6 +9,7 @@ Olá, meu nome é Andeloana Neves!👋😃
 💼 Front End rumo ao Full Stack em transição de carreira.
 
 📈 Este é o espaço onde a imaginação e a criatividade se transformam em código.
+ 
 
 
 
@@ -22,14 +23,8 @@ Olá, meu nome é Andeloana Neves!👋😃
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
 
 
-
-
-
 <br>
 <br>
-
-
-
 
 
 🛠️Linguagens e ferramentas:
