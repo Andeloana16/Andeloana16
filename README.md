@@ -40,4 +40,7 @@ Olá, meu nome é Andeloana Neves!👋😃
 <br>
 <br>
 
-[![Andeloana stats](https://github-readme-stats.vercel.app/api?username=andeloana16)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
